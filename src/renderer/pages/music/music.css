@@ -1,0 +1,22 @@
+.nav {
+  width: 400px;
+  height: 40px;
+  background: #828df5;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav span {
+  cursor: pointer;
+}
+.nav .active {
+  color: red;
+}
+.faxian {
+  box-sizing: border-box;
+  padding: 20px;
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
